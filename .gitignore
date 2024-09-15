@@ -1,3 +1,6 @@
 .idea
 usage
 venv
+__pycache__
+*.pyc
+*.pyo
